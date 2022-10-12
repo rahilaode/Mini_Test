@@ -1,0 +1,5 @@
+user_name,transaction_value,last_transaction_date
+Foo,50,2022-01-10
+Bar,140,2022-01-01
+Alice,220,2022-01-26
+Bob,100,2022-02-05

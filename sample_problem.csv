@@ -1,0 +1,9 @@
+user_name,transaction_value,transaction_date
+Foo,50,2022-01-10
+Bar,100,2022-01-01
+Alice,75,2022-01-26
+Bob,20,2022-02-05
+Bar,40,2022-01-01
+Alice,50,2022-01-01
+Bob,80,2022-01-04
+Alice,95,2022-01-01
